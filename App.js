@@ -115,14 +115,6 @@ export default function App() {
         </View>
       )}
 
-      {/* {errors && (
-        <View style={styles.areaShowZip}>
-          <Text style={styles.contentTextZip}>Seu cep não foi encontrado </Text>
-          <Text style={styles.contentTextZip}>
-            Verifique se digitou corretamente
-          </Text>
-        </View>
-      )} */}
     </SafeAreaView>
   );
 }
